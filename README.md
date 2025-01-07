@@ -1,1 +1,1 @@
-# Study_gitt_hub
+# Study_git_hub
